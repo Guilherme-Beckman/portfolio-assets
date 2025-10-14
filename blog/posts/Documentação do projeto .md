@@ -1,3 +1,10 @@
+---
+title: "Meu primeiro post"
+date: "2025-10-06"
+topics: ["AWS", "DevOps", "Infra"]
+image: "https://guilherme-beckman.github.io/portfolio-assets/liads/images/liads.png"
+---
+
 ![[Pasted image 20251006152233.png]]
 
 
