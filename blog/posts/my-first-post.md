@@ -1,12 +1,11 @@
-
 ---
 slugTitle: my-first-post
-title: "My First Post"
+title: "My First Post [EN]"
 date: "2025-10-06"
-topics: ["AWS", "DevOps", "Infrastructure"]
-image: "[https://guilherme-beckman.github.io/portfolio-assets/liads/images/liads.png](https://guilherme-beckman.github.io/portfolio-assets/liads/images/liads.png)"
-
+topics: ["AWS", "DevOps", "Infra"]
+image: "https://guilherme-beckman.github.io/portfolio-assets/cat.jpg"
 ---
+
 
 ![[Pasted image 20251006152233.png]]
 
