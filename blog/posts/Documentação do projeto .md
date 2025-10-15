@@ -1,5 +1,5 @@
 ---
-slug-title: meu-primeiro-post
+slugTitle: meu-primeiro-post
 title: "Meu primeiro post"
 date: "2025-10-06"
 topics: ["AWS", "DevOps", "Infra"]
